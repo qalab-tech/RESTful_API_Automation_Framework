@@ -1,0 +1,22 @@
+# REST API Automation Framework Configuration File'''
+
+API base URL:
+  https://site.name/api
+
+# API Authorization Basic
+
+Authorization Username:
+  some_username
+Authorization Password:
+  some_password
+
+# TS Postgres Database Connection
+
+host:
+  localhost
+database:
+  db_test
+user:
+  some_user
+password:
+  some_password
